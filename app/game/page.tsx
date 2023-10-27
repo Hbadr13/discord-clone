@@ -2,7 +2,8 @@ import React from 'react'
 
 const page = () => {
     return (
-        <div>page</div>
+
+        <div className='bg-red-200 dark:bg-green-800'>page</div>
     )
 }
 
